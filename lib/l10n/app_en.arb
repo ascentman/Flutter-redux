@@ -1,0 +1,38 @@
+{
+  "countries": "Countries",
+  "countryDetails": "{country} Details",
+  "@countryDetails": {
+    "type": "text",
+    "placeholders": {
+      "country": {}
+    }
+  },
+  "confirmed": "Confirmed: {confirmed}",
+  "@confirmed": {
+    "type": "int",
+    "placeholders": {
+      "confirmed": {}
+    }
+  },
+  "recovered": "Recovered: {recovered}",
+  "@recovered": {
+    "type": "int",
+    "placeholders": {
+      "recovered": {}
+    }
+  },
+  "critical": "Critical: {critical}",
+  "@critical": {
+    "type": "int",
+    "placeholders": {
+      "critical": {}
+    }
+  },
+  "deaths": "Deaths: {deaths}",
+  "@deaths": {
+    "type": "int",
+    "placeholders": {
+      "deaths": {}
+    }
+  }
+}
